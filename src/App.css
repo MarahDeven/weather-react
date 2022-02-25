@@ -10,6 +10,7 @@
   margin: 10px 5px;
   text-align: left;
   color: #680747;
+  font-weight: bolder;
 }
 
 .App footer a {
@@ -18,6 +19,6 @@
 }
 
 .App footer a:hover {
-  color: #680747;
+  color: #68c17d;
   text-decoration: none;
 }
